@@ -1,0 +1,12 @@
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/MainActivity.kt
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/di/DependencyInjector.kt
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/di/FragmentScope.kt
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/di/AppComponent.kt
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/business/ContactInteractor.kt
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/models/ContactModel.kt
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/ContactApplication.kt
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/exceptions/ContactException.kt
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/data/ContactsQuery.kt
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/data/ContactsRepository.kt
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/presentation/MainViewModel.kt
+/Users/maria.sharkina/DD/ContactAppExample/app/src/main/java/com/mshark/contactappexample/presentation/MainViewModelProvider.kt

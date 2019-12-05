@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/a0fc5478510d8e9f837a2841a5d7561c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/a92d51e7d44761976c08c7b4a65ced81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9f1e6c88511218cbe609e642f9b97af3/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/12d1152ea95cad20e6ff8cab9abf0946/AndroidManifest.xml:15:1-20:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/timber-4.7.1.aar/3d529b681935353c966d1efa2afd26a1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.arch.core:core-testing:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-testing-2.0.0.aar/f4bdf0e503519f62c5a1907fcf7af5a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/82d5eb1250d9e008cebf3af13552b5a2/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/2a2c323444d03f6512f4ebe40554ea50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fe94ab7d38f73844c06074ab6e66e71e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/4b9d93ba6265b003113e03a0e36cad05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/97fbdb0e645b3b12ce8adb02d872a25e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/b33b42c8ba534ffc35ad9063b4fc4cd0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7db5fe20ef3948586ee666554b602f9e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/90c55159f69db40c101ea98ad77b685c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0e66122485f24e0acc7e2bccbb327308/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/494e1e2fe858202fe33e1a170ce7081d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/9d96bfda26276de18ac360b69be9e68f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/88967270782460c2bfab77b57ed18b71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b17522c9ecb518e56a5af9ca77550db4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/1cc538b0a5c8937925e29a82b400e5fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/21e17d39c5972e70f5cb77b4df18ad49/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/64ce1dd436d4cd630bd67886ec235519/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a1f924433b3917ffe3ac078d1eef9615/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/98e4905f8854ed460f3a65fa8267acf9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/54e7f74f83f0b7f519764f5a7a19c472/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/72daedce1bdeca7b07b8aa6826b8baa2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/33205b6fc0f2542289b46a4719b7f7b3/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/687cfb25c8b1feaeab0686be8bfd8057/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/59a9768480bf2834954e173fd032dd31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ad57d762bbf67cb8585564c853cc2a28/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d69882cbffce80d9ed3a80bd4d286a5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/49c6d03182b67ac3363f05c6d3df08c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7feb9ed6a396740f9530690fd9e36e8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/792bd6d0ba550ac94aee0566f121cab3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:3:11-49
+		INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:4:5-72
+	android:name
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:4:22-69
+application
+ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9f1e6c88511218cbe609e642f9b97af3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9f1e6c88511218cbe609e642f9b97af3/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/timber-4.7.1.aar/3d529b681935353c966d1efa2afd26a1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/timber-4.7.1.aar/3d529b681935353c966d1efa2afd26a1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/82d5eb1250d9e008cebf3af13552b5a2/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/82d5eb1250d9e008cebf3af13552b5a2/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/21e17d39c5972e70f5cb77b4df18ad49/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/21e17d39c5972e70f5cb77b4df18ad49/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/64ce1dd436d4cd630bd67886ec235519/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/64ce1dd436d4cd630bd67886ec235519/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/33205b6fc0f2542289b46a4719b7f7b3/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/33205b6fc0f2542289b46a4719b7f7b3/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/21e17d39c5972e70f5cb77b4df18ad49/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:11:13-39
+	android:label
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:9:13-45
+	android:roundIcon
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:10:13-58
+	android:icon
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:8:13-47
+	android:allowBackup
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:7:13-39
+	android:theme
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:12:13-44
+	android:name
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:6:13-47
+activity#com.mshark.contactappexample.MainActivity
+ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/a0fc5478510d8e9f837a2841a5d7561c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/a0fc5478510d8e9f837a2841a5d7561c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/a92d51e7d44761976c08c7b4a65ced81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/a92d51e7d44761976c08c7b4a65ced81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9f1e6c88511218cbe609e642f9b97af3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9f1e6c88511218cbe609e642f9b97af3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/12d1152ea95cad20e6ff8cab9abf0946/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/12d1152ea95cad20e6ff8cab9abf0946/AndroidManifest.xml:18:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/timber-4.7.1.aar/3d529b681935353c966d1efa2afd26a1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/timber-4.7.1.aar/3d529b681935353c966d1efa2afd26a1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.arch.core:core-testing:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-testing-2.0.0.aar/f4bdf0e503519f62c5a1907fcf7af5a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-testing:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-testing-2.0.0.aar/f4bdf0e503519f62c5a1907fcf7af5a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/82d5eb1250d9e008cebf3af13552b5a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/82d5eb1250d9e008cebf3af13552b5a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/2a2c323444d03f6512f4ebe40554ea50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/2a2c323444d03f6512f4ebe40554ea50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fe94ab7d38f73844c06074ab6e66e71e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fe94ab7d38f73844c06074ab6e66e71e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/4b9d93ba6265b003113e03a0e36cad05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/4b9d93ba6265b003113e03a0e36cad05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/97fbdb0e645b3b12ce8adb02d872a25e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/97fbdb0e645b3b12ce8adb02d872a25e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/b33b42c8ba534ffc35ad9063b4fc4cd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/b33b42c8ba534ffc35ad9063b4fc4cd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7db5fe20ef3948586ee666554b602f9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7db5fe20ef3948586ee666554b602f9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/90c55159f69db40c101ea98ad77b685c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/90c55159f69db40c101ea98ad77b685c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0e66122485f24e0acc7e2bccbb327308/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0e66122485f24e0acc7e2bccbb327308/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/494e1e2fe858202fe33e1a170ce7081d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/494e1e2fe858202fe33e1a170ce7081d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/9d96bfda26276de18ac360b69be9e68f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/9d96bfda26276de18ac360b69be9e68f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/88967270782460c2bfab77b57ed18b71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/88967270782460c2bfab77b57ed18b71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b17522c9ecb518e56a5af9ca77550db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b17522c9ecb518e56a5af9ca77550db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/1cc538b0a5c8937925e29a82b400e5fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/1cc538b0a5c8937925e29a82b400e5fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/21e17d39c5972e70f5cb77b4df18ad49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/21e17d39c5972e70f5cb77b4df18ad49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/64ce1dd436d4cd630bd67886ec235519/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/64ce1dd436d4cd630bd67886ec235519/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a1f924433b3917ffe3ac078d1eef9615/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a1f924433b3917ffe3ac078d1eef9615/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/98e4905f8854ed460f3a65fa8267acf9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/98e4905f8854ed460f3a65fa8267acf9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/54e7f74f83f0b7f519764f5a7a19c472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/54e7f74f83f0b7f519764f5a7a19c472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/72daedce1bdeca7b07b8aa6826b8baa2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/72daedce1bdeca7b07b8aa6826b8baa2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/33205b6fc0f2542289b46a4719b7f7b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/33205b6fc0f2542289b46a4719b7f7b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/687cfb25c8b1feaeab0686be8bfd8057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/687cfb25c8b1feaeab0686be8bfd8057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/59a9768480bf2834954e173fd032dd31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/59a9768480bf2834954e173fd032dd31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ad57d762bbf67cb8585564c853cc2a28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ad57d762bbf67cb8585564c853cc2a28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d69882cbffce80d9ed3a80bd4d286a5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d69882cbffce80d9ed3a80bd4d286a5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/49c6d03182b67ac3363f05c6d3df08c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/49c6d03182b67ac3363f05c6d3df08c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7feb9ed6a396740f9530690fd9e36e8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7feb9ed6a396740f9530690fd9e36e8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/792bd6d0ba550ac94aee0566f121cab3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/792bd6d0ba550ac94aee0566f121cab3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maria.sharkina/DD/ContactAppExample/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/33205b6fc0f2542289b46a4719b7f7b3/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/33205b6fc0f2542289b46a4719b7f7b3/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/33205b6fc0f2542289b46a4719b7f7b3/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/33205b6fc0f2542289b46a4719b7f7b3/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maria.sharkina/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/33205b6fc0f2542289b46a4719b7f7b3/AndroidManifest.xml:24:13-79
